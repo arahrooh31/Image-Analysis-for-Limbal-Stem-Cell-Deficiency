@@ -6,3 +6,9 @@ The TrainingTest file analyzes the processed images (blur and Canny edge detecti
 
 Dylan Steinecke
 dylan.steinecke@gmail.com
+
+Al Rahrooh
+arahrooh@g.ucla.edu
+
+
+Limbal stem cell deficiency is an eye disease characterized by loss of limbal stem cells and partially diagnosed by analyzed images of the nerves in the limbus. Significant human effort is required to select and grade the nerve-containing images. Here, we present work on the first part of an automated process to select, register, and grade the images. For identifying nerve-containing images, a framework for exploring, analyzing, and evaluating the performance of classification algorithms and features for multiple patients and their image sequences is discussed, along with preliminary results (F1 score = 0.463 and 0.606). For registering confocal eye images, an automated pipeline was successful in transforming multiple images in sequence for a single output image. Though, incomplete, necessary progress has been made towards developing the pipeline using classical non-ML image analysis algorithms and image registration techniques. These are the first steps towards improving upon existing diagnostic approaches for LCSD diagnoses.
